@@ -1,4 +1,4 @@
-# Primeros Pasos con Docker 
+# Primeros pasos en Docker 
 
 Este repositorio contiene la práctica **"Primeros pasos en Docker"**, en la que se realizan los siguientes despliegues utilizando contenedores Docker:
 
